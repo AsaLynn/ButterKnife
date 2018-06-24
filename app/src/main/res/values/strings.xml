@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ButterKnifeDemo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="names">1</string>
+    <string-array name="names">
+        <item>name0</item>
+        <item>name1</item>
+        <item>name2</item>
+        <item>name3</item>
+        <item>name4</item>
+    </string-array>
+
+</resources>
